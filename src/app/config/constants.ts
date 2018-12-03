@@ -1,0 +1,1 @@
+export const TBL_USER = 'tbl_users';
